@@ -1,7 +1,22 @@
 # Artificacial_Sinple_WebPage
 Artificacial es un escaparate digital de nuestro mundo de diseño web excepcional. En él, encontrarás una cuidadosa selección de nuestros proyectos más destacados, donde combinamos creatividad y tecnología para dar vida a sitios web únicos y atractivos. 
 
-# Descripción breve del proyecto.
+# Tabla de contenidos
+1. Descripción del proyecto.
+2. Requisitos previos.
+3. Instalación.
+4. Uso.
+5. Configuración inicial.
+6. Contribución.
+7. Créditos.
+8. Licencia.
+9. Estado del proyecto.
+10. Contacto.
+11. Badges.
+12. Agradecimientos.
+13. 
+
+# Descripción breve del proyecto
 
 ## Requisitos Previos
 
