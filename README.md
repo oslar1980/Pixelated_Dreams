@@ -14,11 +14,13 @@ Artificacial es un escaparate digital de nuestro mundo de diseño web excepciona
 10. Contacto.
 11. Badges.
 12. Agradecimientos.
-13. 
 
 # Descripción breve del proyecto
+* Título
+* Características destacadas.
+* Tecnologías utilizadas.
 
-## Requisitos Previos
+# Requisitos Previos
 
 Asegúrate de tener instalados los siguientes elementos antes de comenzar:
 
