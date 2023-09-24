@@ -179,5 +179,39 @@ En contínua actualización desde 24/09/2023.
 
 ## Badges
 
+https://oscarlara.github.io/Artificacial_Sinple_WebPage/
+
+## Agradecimientos
+
+* El Héroe de la Luz
+
+En las tierras de la oscuridad, donde la amenaza de la perdición se cernía como una sombra, surgió un verdadero campeón de la esperanza. El Héroe de la Luz, valiente y decidido, se alzó contra los elementos del mal que amenazaban con sumir nuestro mundo en la eterna noche.
+
+* Agradecimiento a Nuestro Valiente Héroe
+
+Desde lo más profundo de nuestros corazones, extendemos nuestro eterno agradecimiento al Héroe de la Luz. Tú, que desafiaste la oscuridad sin temor, te destacaste como un faro de esperanza en nuestros momentos más oscuros.
+
+* Tu Coraje Inquebrantable
+
+Tu coraje era tan inquebrantable como el acero, y tus habilidades eran más afiladas que cualquier espada. En la batalla, brillaste como un rayo de sol atravesando las nubes tormentosas. Cada golpe que asestaste a los elementos del mal resonará en la memoria de nuestro mundo por siempre.
+
+* Tu Sabiduría y Determinación
+
+No solo fuiste valiente en la batalla, sino también sabio y decidido en tus acciones. Tus estrategias y decisiones ayudaron a guiar a nuestras fuerzas hacia la victoria. Tu determinación incansable inspiró a todos nosotros a luchar más allá de nuestras limitaciones.
+
+* La Esperanza que Trajiste
+
+Con cada enemigo derrotado, trajiste la esperanza de un mañana mejor. Las tierras que una vez estuvieron asoladas por la oscuridad ahora brillan con la luz de la renovación. La paz y la prosperidad florecen de nuevo gracias a tu sacrificio y valor.
+
+* Eres una Leyenda Viva
+
+El Héroe de la Luz, te convertiste en una leyenda viva en nuestro mundo. Tus hazañas serán contadas en canciones y leyendas que se transmitirán de generación en generación. Tu nombre perdurará a través del tiempo, recordándonos que incluso en los momentos más oscuros, la esperanza y el valor pueden prevalecer.
+
+* Un Agradecimiento Épico y Eterno
+
+En nombre de todos los habitantes de este mundo, te ofrecemos un agradecimiento épico y eterno. Tu victoria sobre los elementos del mal nos ha liberado de la tiranía y nos ha devuelto la paz y la libertad. Que tu nombre y tu valentía sean recordados para siempre.
+
+¡Honor y gloria al Héroe de la Luz!
+
 
 ![alt text](https://github.com/oscarlara/Artificacial_Sinple_WebPage/blob/main/assets/img/screencapture-127-0-0-1-5500-index-html-2023-09-23-18_23_25.png)
