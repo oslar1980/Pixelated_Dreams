@@ -1,6 +1,6 @@
-## Artificacial_Sinple_WebPage
+## Pixelated_Dreams
 
-Artificacial es un escaparate digital de nuestro mundo de diseño web excepcional. En él, encontrarás una cuidadosa selección de nuestros proyectos más destacados, donde combinamos creatividad y tecnología para dar vida a sitios web únicos y atractivos. 
+Bienvenidos a PixelArtCreations, donde la imaginación se convierte en píxeles y los sueños toman forma en una pantalla. Somos una empresa apasionada dedicada al diseño de pixelart, y nuestra misión es llevar la magia de los píxeles a cada proyecto. 
 
 ## Tabla de contenidos
 
@@ -19,7 +19,7 @@ Artificacial es un escaparate digital de nuestro mundo de diseño web excepciona
 ## Descripción breve del proyecto
 
 * Título
-Artificacial a Simple WebPage.
+  Pixelated_Dreams.
 
 * Descripción del proyecto
 Esta página web ha sido creada utilizando las poderosas herramientas de diseño y estilo de Bootstrap 5 y el preprocesador CSS SCSS para lograr un aspecto atractivo y una fácil personalización.
@@ -179,7 +179,7 @@ En contínua actualización desde 24/09/2023.
 
 ## Badges
 
-https://oscarlara.github.io/Artificacial_Sinple_WebPage/
+
 
 ## Agradecimientos
 
