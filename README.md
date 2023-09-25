@@ -19,7 +19,7 @@ Bienvenidos a PixelArtCreations, donde la imaginación se convierte en píxeles 
 ## Descripción breve del proyecto
 
 * Título
-  Pixelated_Dreams.
+Pixelated_Dreams.
 
 * Descripción del proyecto
 Esta página web ha sido creada utilizando las poderosas herramientas de diseño y estilo de Bootstrap 5 y el preprocesador CSS SCSS para lograr un aspecto atractivo y una fácil personalización.
