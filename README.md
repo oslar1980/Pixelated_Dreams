@@ -214,4 +214,4 @@ En nombre de todos los habitantes de este mundo, te ofrecemos un agradecimiento 
 ¡Honor y gloria al Héroe de la Luz!
 
 
-![alt text](https://github.com/oscarlara/Artificacial_Sinple_WebPage/blob/main/assets/img/screencapture-127-0-0-1-5500-index-html-2023-09-23-18_23_25.png)
+![alt text](https://github.com/oslar1980/Pixelated_Dreams/blob/main/screencapture-127-0-0-1-5500-index-html-2023-09-25-10_05_06.png)
